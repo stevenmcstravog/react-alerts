@@ -2,7 +2,7 @@
 
 ![screenshot](https://github.com/stevenmcstravog/react-alerts/blob/main/screenshot.png)
 - CSS with fade animation
-- useEffect hook
+- useState & useEffect hooks
 - setTimeout for removing an alert
 
 
